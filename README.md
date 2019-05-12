@@ -10,15 +10,13 @@
 
 志工團隊：Fran Tseng
 
-# 中文字幕教學
+# 中文字幕流程
 
-流程
-
-1. YouTube.com
+1. 用 Google Chrome 開啟 www.YouTube.com
 
    
 
-2. 影片清單 https://www.youtube.com/playlist?list=PL-JmE9Ik3niShINabTCTrXEzVgJFRGBob
+2. 2019影片清單 https://www.youtube.com/playlist?list=PL-JmE9Ik3niShINabTCTrXEzVgJFRGBob
 
    
 
@@ -47,6 +45,16 @@
    
 
 7. 送審，結案。要送審編輯團隊才看的到，原則上我們會儘快通過，就會備份起來。
+
+注意事項：
+
+* 一個影片一個人負責上字幕
+* 字幕記得常常存檔
+
+# 審核流程
+
+* 儘快發佈
+* 用 make 工具備份字幕
 
 # Motivation
 https://zenpencils.com/comic/90-ira-glass-advice-for-beginners/
