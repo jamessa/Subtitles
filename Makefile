@@ -1,5 +1,6 @@
 download:
-
+	#Single
+	youtube-dl --all-subs --skip-download NzgSqg84I9k
 	# 2019
 	youtube-dl --all-subs --skip-download PL-JmE9Ik3niShINabTCTrXEzVgJFRGBob
 	# 2018
