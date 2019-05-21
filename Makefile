@@ -12,3 +12,8 @@ all:
 	youtube-dl --write-sub --sub-lang zh-Hant --skip-download lBb5TFxj1S0
 	#Single
 	youtube-dl --all-subs --skip-download NzgSqg84I9k
+
+commit:
+	git add .
+	git commit -m `date +'%m%d'`
+	git push
