@@ -62,13 +62,13 @@
 
 3. https://support.google.com/youtube/answer/2734796#add
 
-   Shift + 向左鍵：倒轉影片 1 秒。
-   Shift + 向右鍵：快轉影片 1 秒。
-   Shift + 空格鍵：暫停或播放影片。
-   Shift + Enter 鍵：新增一行。
-   Shift + 向下鍵：編輯下一句字幕。
-   Shift + 向上鍵：編輯上一句字幕。
-   Enter 鍵：新增字幕。
+   * Shift + 向左鍵：倒轉影片 1 秒。
+   * Shift + 向右鍵：快轉影片 1 秒。
+   * Shift + 空格鍵：暫停或播放影片。
+   * Shift + Enter 鍵：新增一行。
+   * Shift + 向下鍵：編輯下一句字幕。
+   * Shift + 向上鍵：編輯上一句字幕。
+   * Enter 鍵：新增字幕。
 
 4. 訂一個目標，譬如今天要完成五分鐘的片段。
 
